@@ -42,6 +42,16 @@ the jupyter notebook includes:
 
 - A chart showing the range of predicted ratings
 
+### use cases :
+
+Recommender systems like this are used by:
+
+- netflix to suggest shows
+
+- amazon,flipcart and others to suggest products
+
+- spotify to suggest songs and so on
+
 
 ### OUTPUT :
 ![Image](https://github.com/user-attachments/assets/95ee58cb-5466-4b12-a13d-fb461a2e51ff)
