@@ -13,7 +13,7 @@
 *MENTOR* : NEELA SANTOSH
 
 ### DESCRIPTION :
-This is a simple movie recommendation system that suggests movies to users based on what they (and others) have rated before. It uses a technique called collaborative filtering – basically, it finds patterns in how people rate movies and uses that to predict what they might like next.
+This project is a movie recommendation system that suggests movies to users based on what they — and others — have rated before. It uses a popular method in machine learning called collaborative filtering, specifically a matrix factorization technique called SVD (Singular Value Decomposition). The idea is simple: if two users have rated some movies similarly, they’re likely to enjoy similar movies in the future too. This model learns those patterns and helps predict which movies a user might like next.
 
  ### Tools & Libraries Used  
 - scikit-surprise -the main library for building recommender systems  
