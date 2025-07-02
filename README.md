@@ -58,14 +58,17 @@ The distribution of predicted ratings is displayed in a histogram to provide a q
 
 ### use cases :
 
-Recommender systems like this are used by:
+recommendation systems like this are widely used in the real world:
 
-- netflix to suggest shows
+- netflix: To recommend TV shows and movies based on what you and similar users have watched
 
-- amazon,flipcart and others to suggest products
+- amazon,flipkart and others: To suggest products that match your shopping patterns
 
-- spotify to suggest songs and so on
+- spotify: To create playlists and suggest songs you might like
 
+- YouTube: To personalize video recommendations
 
+### Conclusion :
+This task demonstrates how a simple recommendation system works on real-world data. It gives you an idea of how we can leverage machine learning techniques to predict user preferences. With minimal tools and some sophisticated math under the hood, this notebook produces a simple but efficient recommender that would be easily modifiable to other domains such as e-commerce, music, or learning websites.
 ### OUTPUT :
 ![Image](https://github.com/user-attachments/assets/95ee58cb-5466-4b12-a13d-fb461a2e51ff)
